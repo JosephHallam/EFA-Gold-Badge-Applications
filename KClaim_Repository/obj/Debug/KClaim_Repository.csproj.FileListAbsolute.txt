@@ -1,5 +1,0 @@
-C:\Users\joeha\source\repos\Gold Badge Console Applications\KClaim_Repository\bin\Debug\KClaim_Repository.dll
-C:\Users\joeha\source\repos\Gold Badge Console Applications\KClaim_Repository\bin\Debug\KClaim_Repository.pdb
-C:\Users\joeha\source\repos\Gold Badge Console Applications\KClaim_Repository\obj\Debug\KClaim_Repository.csprojAssemblyReference.cache
-C:\Users\joeha\source\repos\Gold Badge Console Applications\KClaim_Repository\obj\Debug\KClaim_Repository.dll
-C:\Users\joeha\source\repos\Gold Badge Console Applications\KClaim_Repository\obj\Debug\KClaim_Repository.pdb
