@@ -1,0 +1,16 @@
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Console.exe.config
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Console.exe
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Console.pdb
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Unit Tests.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\KomodoCafe.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Unit Tests.pdb
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\KomodoCafe.pdb
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.csprojAssemblyReference.cache
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.csproj.CopyComplete
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.exe
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.pdb

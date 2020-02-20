@@ -1,0 +1,10 @@
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Repository\bin\Debug\KomodoClaim_Repository.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Repository\bin\Debug\KomodoClaim_Repository.pdb
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Repository\obj\Debug\KomodoClaim_Repository.csprojAssemblyReference.cache
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Repository\obj\Debug\KomodoClaim_Repository.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Repository\obj\Debug\KomodoClaim_Repository.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Repository\bin\Debug\KomodoClaim_Repository.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Repository\bin\Debug\KomodoClaim_Repository.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Repository\obj\Debug\KomodoClaim_Repository.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Repository\obj\Debug\KomodoClaim_Repository.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Repository\obj\Debug\KomodoClaim_Repository.pdb

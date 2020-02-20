@@ -1,0 +1,5 @@
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoCafe\bin\Debug\KomodoCafe.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoCafe\bin\Debug\KomodoCafe.pdb
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoCafe\obj\Debug\KomodoCafe.csprojAssemblyReference.cache
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoCafe\obj\Debug\KomodoCafe.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoCafe\obj\Debug\KomodoCafe.pdb

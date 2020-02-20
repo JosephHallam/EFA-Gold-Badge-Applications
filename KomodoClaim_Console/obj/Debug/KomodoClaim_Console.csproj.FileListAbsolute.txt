@@ -1,0 +1,18 @@
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Console.exe.config
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Console.exe
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Console.pdb
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Console\obj\Debug\KomodoClaim_Console.csprojAssemblyReference.cache
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Console\obj\Debug\KomodoClaim_Console.exe
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Console\obj\Debug\KomodoClaim_Console.pdb
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Repository.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Repository.pdb
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoClaim_Console\obj\Debug\KomodoClaim_Console.csproj.CopyComplete
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Console.exe.config
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Console.exe
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Console.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Repository.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Console\bin\Debug\KomodoClaim_Repository.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Console\obj\Debug\KomodoClaim_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Console\obj\Debug\KomodoClaim_Console.csproj.CopyComplete
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Console\obj\Debug\KomodoClaim_Console.exe
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoClaim_Console\obj\Debug\KomodoClaim_Console.pdb

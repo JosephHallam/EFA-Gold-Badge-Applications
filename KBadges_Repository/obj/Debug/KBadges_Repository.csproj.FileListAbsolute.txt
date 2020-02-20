@@ -1,0 +1,5 @@
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KBadges_Repository\bin\Debug\KBadges_Repository.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KBadges_Repository\bin\Debug\KBadges_Repository.pdb
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KBadges_Repository\obj\Debug\KBadges_Repository.csprojAssemblyReference.cache
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KBadges_Repository\obj\Debug\KBadges_Repository.dll
+C:\Users\joeha\source\repos\Gold Badge Console Applications\KBadges_Repository\obj\Debug\KBadges_Repository.pdb
