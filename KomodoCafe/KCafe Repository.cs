@@ -16,16 +16,22 @@ namespace KomodoCafe
         public MenuItem() { }
         public MenuItem(string name, int itemNumber, string description, List<string> ingredientList, decimal price)
         {
-            name = Name;
-            itemNumber = ItemNumber;
-            description = Description;
-            ingredientList = IngredientList;
-            price = Price;
+            Name = name;
+            ItemNumber = itemNumber;
+            Description = description;
+            IngredientList = ingredientList;
+            Price = price;
         }
     }
     public class MenuRepository
     {
         List<MenuItem> listOfItems = new List<MenuItem>();
+        public void SeedContent()
+        {
+            List<string> ingredients = new List<string>() { "Noodles", "Tomato", "Basil", "Pork Meatballs" };
+            MenuItem spaghetti = new MenuItem("Spaghetti", 1, "A simple, yet delicious pasta dish.", ingredients, 14.95m);
+            listOfItems.Add(spaghetti);
+        }
         public bool AddItem()
         {
             Console.Clear();

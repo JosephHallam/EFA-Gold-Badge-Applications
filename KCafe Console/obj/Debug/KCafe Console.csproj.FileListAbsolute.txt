@@ -14,3 +14,19 @@ C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\obj\De
 C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.csproj.CopyComplete
 C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.exe
 C:\Users\joeha\source\repos\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Console.exe.config
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Console.exe
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Console.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Unit Tests.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\KomodoCafe.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\KCafe Unit Tests.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\KomodoCafe.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.csproj.CopyComplete
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.exe
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KCafe Console\obj\Debug\KCafe Console.pdb

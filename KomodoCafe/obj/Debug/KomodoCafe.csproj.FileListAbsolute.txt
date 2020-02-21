@@ -3,3 +3,8 @@ C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoCafe\bin\Debug
 C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoCafe\obj\Debug\KomodoCafe.csprojAssemblyReference.cache
 C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoCafe\obj\Debug\KomodoCafe.dll
 C:\Users\joeha\source\repos\Gold Badge Console Applications\KomodoCafe\obj\Debug\KomodoCafe.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoCafe\bin\Debug\KomodoCafe.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoCafe\bin\Debug\KomodoCafe.pdb
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoCafe\obj\Debug\KomodoCafe.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoCafe\obj\Debug\KomodoCafe.dll
+C:\ElevenFiftyProjects\EFA Gold Badge Work\Gold Badge Console Applications\KomodoCafe\obj\Debug\KomodoCafe.pdb

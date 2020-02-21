@@ -11,6 +11,7 @@ namespace KomodoCafe
         MenuRepository _menurepo = new MenuRepository();
         public void Run()
         {
+            _menurepo.SeedContent();
             RunMenu();
         }
         public void RunMenu()
